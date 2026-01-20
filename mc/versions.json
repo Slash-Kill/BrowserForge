@@ -16,7 +16,7 @@
     "name": "Minecraft 1.6.2 Forge",
     "jar": "jars/1.6.2.jar",
     "type": "jar-zip",
-    "class": "net.minecraft.client.main.Main",
+    "class": "net.minecraft.launchwrapper.Launch",
     "libraries": [
       {
         "url": "libs/jopt-simple-4.5.jar",
